@@ -1,0 +1,20 @@
+{
+  "name": "node-betting",
+  "version": "1.0.0",
+  "description": "a simple betting game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "betting",
+    "game",
+    "node"
+  ],
+  "author": "snarf",
+  "license": "noen"
+}
